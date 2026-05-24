@@ -4,12 +4,12 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  Hey there! I'm Sai Vikas
+  Sai Vikas
 </h1>
 
 <p align="center">
   <a href="https://github.com/saivikas35">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&width=450&lines=Full-Stack+Developer;Machine+Learning+Engineer;Building+Intelligent+Web+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&width=450&lines=Full-Stack+Developer;Machine+Learning+Engineer;Deep+Learning+Researcher" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,53 +29,63 @@
 
 ### 🧠 About Me
 
-I am a passionate **Full-Stack Developer** and **Machine Learning Engineer** dedicated to building high-performance web applications and intelligent systems. With a strong foundation in modern frontend frameworks, scalable backends, and deep learning architectures, I love transforming complex ideas into elegant, user-friendly digital experiences.
-
-- 🚀 **Currently building**: High-fidelity web tools and interactive React/Next.js platforms (like my AllTools full-stack suite).
-- 🧠 **Exploring**: Advanced deep learning architectures, convolutional networks (CNNs), and state-of-the-art recommendation systems.
-- 💼 **Strong Focus**: Clean code, responsive designs, modern CSS/Tailwind, robust APIs, and performant AI pipeline integration.
-- 🌱 **Fun Fact**: I enjoy bridge-building between the logical complexity of Machine Learning models and the creative artistry of Frontend engineering.
+I am a **Full-Stack Developer** and **Machine Learning Engineer** working at the intersection of high-performance web systems and deep learning research. My work spans building modern, highly responsive frontend interfaces, creating rapid server architectures, and engineering custom AI models—from Computer Vision classifiers with explainable AI (XAI) to Quantum-Classical hybrid architectures and Semantic Recommender Systems.
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Highlighted Projects
+
+Here are some of the active projects I've built and engineered, reflecting my dual focus on full-stack scalability and state-of-the-art AI:
+
+#### 🧪 Machine Learning & AI Research
+
+*   **[AI-Based Skin Disease Detection & Classification](https://github.com/saivikas35/AI-BASED-SKIN-DISEASE-DETECTION-AND-CLASSIFICATION-)**
+    *   *Core Stack:* Python, ResNet50, SVM, Grad-CAM, OpenCV.
+    *   *Features:* A diagnostic assistant supporting 23 distinct skin conditions. Implements ResNet50 for high-fidelity feature extraction combined with an SVM classifier. Includes **Grad-CAM explainability** to visually map model decision regions, automatically generating comprehensive reports with symptoms, underlying causes, and treatment insights.
+*   **[Quantum-Classical Hybrid Brain Tumor Detection](https://github.com/saivikas35/Brain-Tumor-Detection-Hybrid)**
+    *   *Core Stack:* Python, PyTorch, Qiskit / PennyLane.
+    *   *Features:* Engineered a hybrid quantum-classical convolutional neural network (HQNN) achieving **98.84% accuracy** in detecting brain tumors. Focuses on exploiting quantum state spaces for enhanced feature representations in medical imaging.
+*   **[Semantic + Behavioural Fusion E-Commerce Recommender](https://github.com/saivikas35/SADLF-RecSys-E-Commerce-Webpage-Recommendation-System)**
+    *   *Core Stack:* Python, PyTorch, BERT, Deep Learning.
+    *   *Features:* Built a semantic-behavioural recommender system based on the SADLF architecture. Fuses BERT-driven semantic item embeddings with real-time user behavioural interaction matrices to deliver highly personalized, context-aware product recommendations.
+
+#### 💻 Full-Stack & Utility Engineering
+
+*   **[All-Tools Utility Hub](https://github.com/saivikas35/All-Tolls)**
+    *   *Core Stack:* Next.js (React), FastAPI, TailwindCSS, Node.js, Python.
+    *   *Features:* A sleek, unified digital tools engine. Includes deep PDF manipulation algorithms (high-performance merge, split, compression, HTML conversions), secure multi-format archive extraction (Zip, Rar, 7z), rapid image-to-format converters, and an **ATS-optimized Resume Analyzer** featuring real-time styling controls and keyword match metrics.
+*   **[RapidFileConvert Telegram Bot](https://github.com/saivikas35/RapidFileConvertBot)**
+    *   *Core Stack:* Python, python-telegram-bot, Pillow, PyMuPDF.
+    *   *Features:* A production-grade multi-format Telegram converter. Supports lightning-fast bidirectional conversions (PDF ↔ Word, PDF ↔ Images, image merging, PDF compression) directly inside Telegram with an intuitive inline keyboard UI.
+
+---
+
+### 🛠️ Tech Stack & Skills
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Frontend & Styling</h4>
+      <h4>💻 Full-Stack Web Development</h4>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & APIs</h4>
+      <br />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Machine Learning & Data</h4>
+      <h4>🤖 Machine Learning & AI</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
       <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
       <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Tools & DevOps</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
     </td>
   </tr>
 </table>
@@ -90,7 +100,7 @@ I am a passionate **Full-Stack Developer** and **Machine Learning Engineer** ded
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
   <table align="center">
@@ -114,5 +124,5 @@ I am a passionate **Full-Stack Developer** and **Machine Learning Engineer** ded
 ---
 
 <p align="center">
-  ✨ <i>Feel free to explore my repositories, open an issue, or drop a message if you'd like to collaborate on exciting projects!</i> ✨
+  ✨ <i>Always open to collaborating on complex full-stack web architectures and cutting-edge deep learning systems. Let's build something remarkable!</i> ✨
 </p>
