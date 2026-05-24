@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/normal-badge/?username=saivikas35&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=saivikas35&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
 </p>
 
 <h1 align="center">
@@ -32,7 +32,7 @@
 I am a passionate **Full-Stack Developer** and **Machine Learning Engineer** dedicated to building high-performance web applications and intelligent systems. With a strong foundation in modern frontend frameworks, scalable backends, and deep learning architectures, I love transforming complex ideas into elegant, user-friendly digital experiences.
 
 - 🚀 **Currently building**: High-fidelity web tools and interactive React/Next.js platforms (like my AllTools full-stack suite).
-- 🧠 **Exploring**: Advanced deep learning architectures, convolutional neural networks (CNNs), and state-of-the-art recommendation systems.
+- 🧠 **Exploring**: Advanced deep learning architectures, convolutional networks (CNNs), and state-of-the-art recommendation systems.
 - 💼 **Strong Focus**: Clean code, responsive designs, modern CSS/Tailwind, robust APIs, and performant AI pipeline integration.
 - 🌱 **Fun Fact**: I enjoy bridge-building between the logical complexity of Machine Learning models and the creative artistry of Frontend engineering.
 
@@ -96,10 +96,10 @@ I am a passionate **Full-Stack Developer** and **Machine Learning Engineer** ded
   <table align="center">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saivikas35&show_icons=true&theme=tokyonight&count_private=true" alt="Sai Vikas's GitHub Stats" />
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saivikas35&theme=tokyonight" alt="Sai Vikas's GitHub Profile" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivikas35&layout=compact&theme=tokyonight" alt="Top Languages" />
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saivikas35&theme=tokyonight" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
